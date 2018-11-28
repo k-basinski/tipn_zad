@@ -32,3 +32,25 @@ Teraz zrobie listę wypunktowaną:
 To jest link do fajnej strony: <http://kbas.gumed.edu.pl>
 
 [To jest link do innej fajnej strony](http://kbas.gumed.edu.pl)
+
+
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+
+| Tables        | Are    | Cool  |
+| ---|:---:| ---:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+| a  | v      | c | d | e |
+| 23 | 3      | 1 | 2 | 3 |
+| 1  | 4      | 2 | 2 | 2 |
+| 3  | bababa | 3 | 3 | 3 |
+
+| ana | faf|
+|---|---|
+| 3234 |423|
